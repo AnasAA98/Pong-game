@@ -12,17 +12,20 @@ Two-player Controls: Players can control their respective pads using the up/down
 Dynamic Ball Speed: The speed of the ball increases with each successful hit, adding a challenging element to the game.
 Scoreboard: A centrally located scoreboard keeps track of each player's score.
 Getting Started
+
 Prerequisites
 Java Development Kit (JDK) installed on your machine.
+
 Controls
 Player 1 (Left Paddle):
-
-Up: Arrow Up
-Down: Arrow Down
-Player 2 (Right Paddle):
-
 Up: W
 Down: S
+
+Player 2 (Right Paddle):
+Up: Arrow Up
+Down: Arrow Down
+
+
 Gameplay
 The game starts with the ball in the center of the screen.
 Use the controls to move the paddles and hit the ball.
