@@ -1,8 +1,11 @@
 Pong Game in Java
+
 Description
+
 This Java project implements a classic Pong game using Graphical User Interfaces (GUIs) and Object-Oriented Programming (OOP) concepts. The game features two pads controlled by the up/down arrows and W/S keys, respectively. The objective is to hit the ball with the pads, and the ball's speed increases with each successful hit. A scoreboard is displayed in the middle of the screen, tracking the players' scores.
 
 Features
+
 GUI Implementation: The game utilizes Java's GUI components for a user-friendly interface.
 Object-Oriented Programming: The project employs OOP principles to model game entities, making the code modular and maintainable.
 Two-player Controls: Players can control their respective pads using the up/down arrows and W/S keys.
